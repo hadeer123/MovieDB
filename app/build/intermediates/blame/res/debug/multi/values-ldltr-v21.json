@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\fg7cpt\\Documents\\MovieDB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\fg7cpt\\.android\\build-cache\\a82ad37945a848f2cd149410d2c2bdda0a84fb2a\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
