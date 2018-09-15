@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\fg7cpt\\Documents\\MovieDB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\Users\\fg7cpt\\Desktop\\Udacity-Nanodegree\\week4-project(reviewed)\\MovieDB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\fg7cpt\\.android\\build-cache\\a82ad37945a848f2cd149410d2c2bdda0a84fb2a\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "C:\\Users\\fg7cpt\\.android\\build-cache\\4f2bf5836c68c8ac715cb8e4258ce2cd0293958b\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
